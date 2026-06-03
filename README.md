@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hey, I'm Jenisish 👋</h1>
+  <h1>Hey, I'm Mulpuru Jenisish 👋</h1>
 
   <p>
     Building products, automating infrastructure, and solving problems one deployment at a time.
