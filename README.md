@@ -47,11 +47,46 @@
 
 <div align="center">
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=jenisish&show_icons=true&theme=transparent&hide_border=true"
-    alt="GitHub Stats"
-  />
+ <table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jenisish&theme=github_dark"
+        alt="Jenisish GitHub Profile Details"
+      />
+    </td>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=Jenisish&theme=github-dark"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jenisish&theme=github_dark"
+        alt="Jenisish GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jenisish&theme=github_dark"
+        alt="Jenisish Repositories Per Language"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jenisish&theme=github_dark"
+        alt="Jenisish Most Commit Language"
+      />
+    </td>
+  </tr>
+</table>
+
 
   <br><br>
 
