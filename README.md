@@ -87,8 +87,7 @@
   </tr>
 </table>
 
-
-  <br><br>
+<br>
 
   <h3>🏅 Holopin Badges</h3>
 
@@ -99,15 +98,14 @@
     />
   </a>
 
-  <br><br>
-
+<br><br>
   <img
     src="/knight3.gif"
     width="180"
     alt="Hollow Knight"
   />
 
-  <br><br>
+  <br>
 
   <blockquote>
     <em>
@@ -122,7 +120,6 @@
     Building today so future me has fewer bugs to fix.
   </strong>
 
-  <br><br>
 
   ⭐️
   <a href="https://mulpurujenisish.vercel.app">
